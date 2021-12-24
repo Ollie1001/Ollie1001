@@ -5,6 +5,10 @@
 - 🌱 I can currently code in Rust, Ruby, Python, Java, Javascript, C, HTML, CSS, Backend, frontend, C++, Swift and TypeScript
 - 📫 How to reach me I have an epic discord server! (https://cupbot.lol/support)
 
+### Jobs
+- 👻 I'm a Manager at Botghost.com
+- 😀 Trial Bot Reviewer at Top.gg
+
 ### Projects
 - 🔗 https://sturl.co/ - URL Shortener
 - 🔗 https://cupbot.lol/ - My Discord Bot
