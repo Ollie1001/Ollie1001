@@ -6,8 +6,9 @@
 - 📫 How to reach me I have an epic discord server! (https://cupbot.lol/support)
 
 ### Jobs
-- 👻 I'm a Manager at Botghost.com
-- 😀 Trial Bot Reviewer at Top.gg
+- Trial Moderator - Paradyme Games
+- Bot Reviewer - Top.gg
+- Used to be Executive Manager @ BotGhost
 
 ### Projects
 - 🔗 https://sturl.co/ - URL Shortener
