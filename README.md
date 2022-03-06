@@ -2,15 +2,14 @@
 
 - 👋 Hi, I’m Ollie!
 - 👀 I’m interested in sport, coding, editing, animating and design I'm also gay so thats neat
-- 🌱 I can currently code in Rust, Ruby, Python, Java, Javascript, C, HTML, CSS, Backend, frontend, C++, Swift and TypeScript
 - 📫 How to reach me I have an epic discord server! (https://cupbot.lol/support)
 
 ### Jobs
 - Sr. Moderator - [Paradyme Games](https://discord.gg/HHXb3fheKP)
-- Head Developer - Wave
-- Bot Reviewer - Top.gg
+- Head Developer - [Wave](https://wavebot.org)
+- Bot Reviewer - Top.gg(https://top.gg)
 - Ex Executive Manager @ BotGhost
 
 ### Projects
-- 🔗 https://sturl.co/ - URL Shortener
-- 🔗 https://cupbot.lol/ - My Discord Bot
+- 🔗 https://wavebot.org/ - An advanced Discord Moderation Bot
+- 🔗 Hostr - An advanced way to host your Discord bot without having to code anything for free! *(coming soon)*
