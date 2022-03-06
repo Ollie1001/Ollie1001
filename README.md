@@ -6,9 +6,10 @@
 - 📫 How to reach me I have an epic discord server! (https://cupbot.lol/support)
 
 ### Jobs
-- Trial Moderator - Paradyme Games
+- Sr. Moderator - [Paradyme Games](https://discord.gg/HHXb3fheKP)
+- Head Developer - Wave
 - Bot Reviewer - Top.gg
-- Used to be Executive Manager @ BotGhost
+- Ex Executive Manager @ BotGhost
 
 ### Projects
 - 🔗 https://sturl.co/ - URL Shortener
