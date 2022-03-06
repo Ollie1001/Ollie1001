@@ -1,8 +1,8 @@
 # About Me
 
 - 👋 Hi, I’m Ollie!
-- 👀 I’m interested in sport, coding, editing, animating and design I'm also gay so thats neat
-- 📫 How to reach me I have an epic discord server! (https://cupbot.lol/support)
+- 👀 My interests are music, coding, designing, engineering spakers
+- 📫 If you'd like to reach out to me, email me at me@ollie.lol
 
 ### Jobs
 - Sr. Moderator - [Paradyme Games](https://discord.gg/HHXb3fheKP)
