@@ -11,6 +11,6 @@
 - Ex Executive Manager @ BotGhost
 
 ### Projects
-- 🌊 https://wavebot.org/ - An advanced Discord Moderation Bot
+- 🌊 [Wave](https://wavebot.org) - An advanced Discord Moderation Bot
 - 🟢 Hostr - An advanced way to host your Discord bot without having to code anything for free! *(coming soon)*
 - 🎙 Blast - An amazing sounding portable speaker company *(coming soon)*
