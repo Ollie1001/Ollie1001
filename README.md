@@ -5,9 +5,9 @@
 - 📫 If you'd like to reach out to me, email me at me@ollie.lol
 
 ### Jobs
-- Sr. Moderator - [Paradyme Games](https://discord.gg/HHXb3fheKP)
+- Head Moderator - [Paradyme Games](https://discord.gg/HHXb3fheKP)
 - Head Developer - [Wave](https://wavebot.org)
-- Bot Reviewer - Top.gg(https://top.gg)
+- Bot Reviewer - [Top.gg](https://top.gg)
 - Ex Executive Manager @ BotGhost
 
 ### Projects
