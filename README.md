@@ -18,6 +18,6 @@
 - 🟢 BotBrain - An advanced way to host your Discord bot without having to code anything for free! *(coming soon)*
 
 ### Links
-🔗 [Twitter](https://twitter.com/olykoala)
-🔗 [YouTube]([https://twitter.com/olykoala](https://www.youtube.com/channel/UCpcwyyv2Obll9mF8rDv8R8g))
-🔗 [Discord](https://discord.gg/yEzjbhcWDH)
+- 🔗 [Twitter](https://twitter.com/olykoala)
+- 🔗 [YouTube]([https://twitter.com/olykoala](https://www.youtube.com/channel/UCpcwyyv2Obll9mF8rDv8R8g))
+- 🔗 [Discord](https://discord.gg/yEzjbhcWDH)
