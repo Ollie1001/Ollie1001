@@ -4,7 +4,7 @@
 - 👀 My interests are sound engineering, software engineering, graphic design and the pog emoji 🤌
 - 📫 If you'd like to reach out to me, email me at contact@ollie.lol
 
-### Jobs
+### Experience
 - Former Admin - [Paradyme Games](https://discord.gg/HHXb3fheKP)
 - Head Developer - [Wave](https://wavebot.org)
 - Former Head Developer @ [Hypebot](https://discord.gg/YT4Fn5z5N7)
