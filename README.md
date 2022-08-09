@@ -10,8 +10,14 @@
 - Former Head Developer @ [Hypebot](https://discord.gg/YT4Fn5z5N7)
 - Developer @ [BotSocket](https://github.com/botsocket)
 - Bot Reviewer - [Top.gg](https://top.gg)
-- Former Executive Manager @ BotGhost
+- Former Executive Manager @ [BotGhost](https://botghost.com)
 
 ### Projects
 - 🌊 [Wave](https://wavebot.org) - An advanced Discord Moderation Bot
+- 🎙 [The Random Podcast](https://www.youtube.com/channel/UCpcwyyv2Obll9mF8rDv8R8g) - A podcast.
 - 🟢 BotBrain - An advanced way to host your Discord bot without having to code anything for free! *(coming soon)*
+
+## Links
+🔗 [Twitter](https://twitter.com/olykoala)
+🔗 [YouTube]([https://twitter.com/olykoala](https://www.youtube.com/channel/UCpcwyyv2Obll9mF8rDv8R8g))
+🔗 [Discord](https://discord.gg/yEzjbhcWDH)
