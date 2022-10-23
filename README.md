@@ -5,9 +5,9 @@
 - 📫 If you'd like to reach out to me, email me at contact@ollie.lol
 
 ### Experience
-- CEO @ [Flintch.tv](https://flintch.tv)
+- Owner @ [Flintch.tv](https://flintch.tv)
 - Owner @ [Wave](https://wavebot.org)
-- Bot Reviewer @ [Top.gg](https://top.gg)
+- Former Bot Reviewer @ [Top.gg](https://top.gg)
 - Former Executive @ [BotGhost](https://botghost.com)
 - Former Head Developer @ [Hypebot](https://discord.gg/YT4Fn5z5N7)
 
